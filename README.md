@@ -12,7 +12,6 @@ A simple TODO application for Spring Boot
 1. Clone the repository
 2. Open the project in a Editor
 3. Run the application
-4. Test the API using Postman (Port No : 3116) Screen shots attached.
-
+4. Test the API using Postman
 
 
